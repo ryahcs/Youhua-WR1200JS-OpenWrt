@@ -6,7 +6,7 @@
 # Blog: https://p3terx.com
 #=================================================
 
-name: Build OpenWrt
+name: Build YouHua WR1200JS Lean's OpenWrt
 
 on:
   release:
